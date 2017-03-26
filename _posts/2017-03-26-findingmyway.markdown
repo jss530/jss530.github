@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Findingmyway"
-date:   2017-03-26 20:14:40 +0000
+title:  "Finding My Way"
+date:   2017-03-26 16:14:41 -0400
 ---
 
 
