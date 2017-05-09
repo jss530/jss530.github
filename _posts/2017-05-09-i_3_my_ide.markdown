@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "I <3 my IDE"
-date:   2017-05-09 19:04:48 +0000
+date:   2017-05-09 15:04:49 -0400
 ---
 
 
 Yes, that's right: it's time everyone knows. I am in love with my IDE. 
 
-The importance of using one to code cannot be over-emphasized. When first starting out, I think it's important for new coders to learn without an IDE guiding them -- this way, they can get a feel for writing out full code, for troubleshooting without the help of flags, for memorizing important keywords and grammar. In my beginner front-end development class, we spent the first couple of weeks writing without any assistance. After the instructor was satisfied we were getting a hang of the foundations, he introduced us to Sublime text - and my programming world was forever changed.
+The importance of using one to code cannot be over-emphasized. When first starting out, I think it's important for new coders to learn without an IDE guiding them -- this way, they can get a feel for writing out full code, for troubleshooting without the help of flags, for memorizing important keywords and grammar. In my beginner front-end development class, we spent the first couple of weeks writing without any assistance. After the instructor was satisfied we were getting the hang of the foundations, he introduced us to Sublime - and my programming world was forever changed.
 
 Not only do IDEs help one to spot potential coding errors right away, they also are huge time savers. Here's an example:
 
@@ -23,6 +23,6 @@ Alternately, I could use Sublime, type the word 'link' and press Tab. The immedi
 
 All that's left for me to do is to fill in the .css file information in the href field.  
 
-This is just one tiny example. I could go provide a zillion more, but I think you get the point: IDEs are time-saving, incredibly helpful, and just all-around awesome. 
+This is just one tiny example. I could provide a zillion more, but I think you get the point: IDEs are time-saving, incredibly helpful, and just all-around awesome. 
 
-So don't be afraid - go ahead and explore the wonderful world of IDEs. You just might find one that is the perfect match for you!
+So don't be afraid - go ahead and explore the wonderful world of IDEs. You just might find one that you love!
