@@ -29,7 +29,7 @@ Day 3, much like the third day of past projects, was plagued by issues. I starte
 I actually took a day off between days 3 and 4, which ended up being a great decision because I was really able to approach the app calmly and with an open mind. I looked at my errors again in the terminal and console. I found out my mistake fairly quickly -- I was seeding my database incorrectly, which was leading to errors. Something I didn't know is that if you want to reset your database (for example, if you have a ton of 'test test' and messy-looking items that you want to clean up), all you have to do is use the 'rake db:reset' command. You do NOT need to type 'rake db:seed' again. The reset takes care of the cleaning AND the seeding. This was the reason for all my issues -- I was trying to re-seed a database that already existed.
 
 Once that was solved, I was able to focus on finishing up the app. Something that's been very helpful has been to maintain a Word document with my ideas as to where I want to go next. I'm including a snippet here:
-![](http://drive.google.com/file/d/1x3VLEN42huUiKKmNRy8w-rdtLAFd-RYY/view?usp=sharing)
+![image](http://drive.google.com/file/d/1x3VLEN42huUiKKmNRy8w-rdtLAFd-RYY/view?usp=sharing)!
 
 I used to be 'old school' and writing everything down on pen and paper -- but OK, I'm working to become a developer, I think it is time to move to something more electronic. And I have to admit - it is much handier. I approached my app from a user's perspective, planning what to build next based on what I wanted to see as a user. And soon enough, my app was complete! At least for now....
 
