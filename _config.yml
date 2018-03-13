@@ -4,7 +4,7 @@ header-img: img/home-bg.png
 email: jsifre01@gmail.com
 copyright_name: jss530
 description: > # this means to ignore newlines until "baseurl:"
-  My journey to becoming a Web Developer
+  My journey to becoming a Full Stack Web Developer
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  jss530
